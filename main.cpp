@@ -23,7 +23,7 @@ void rowEchelonForm();
 void reducedRowEchelonForm();
 void determinant();
 
-int main(int argc, char *argv[]){
+int main(){
 	int exit = 0;
 	while(!exit){
 		int operation;
