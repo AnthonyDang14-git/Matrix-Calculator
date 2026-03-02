@@ -1,3 +1,5 @@
 # Build output files
 *.o
+
+# Executables / Output files
 *.exe
